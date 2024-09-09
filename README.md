@@ -1,16 +1,16 @@
-# Team Portfolio Website
+# Link Shortening Service Landing Page
 
 ## Project Overview
 
-This is a collaborative portfolio website showcasing the work and skills of three team members. The website serves as a digital portfolio, highlighting each member's unique talents, projects, and contributions. It is built using an HTML5 UP template and is hosted on GitHub Pages.
+This project is a simple, responsive landing page for a Link Shortening Service. The landing page allows users to input a long URL and generate a shortened version. It is built using HTML, CSS, and JavaScript. The focus of this project is to provide a clean, user-friendly interface to introduce the service and showcase its functionality.
 
 ## Features
 
 - **Responsive Design**: The website is fully responsive, providing an optimal viewing experience across various devices.
 - **Clean Layout**: The design is simple and elegant, making it easy to navigate.
-- **Individual Profiles**: Each team member has a dedicated section with a short bio, skills, and links to their personal projects.
+- **Link Shortening Functionality: Users can enter a URL to be shortened, and the service will display the shortened version.
 - **GitHub Pages Deployment**: The website is deployed using GitHub Pages for free, fast, and reliable hosting.
-- **Version Control**: GitHub is used for version control to enable smooth collaboration among the team members.
+- **User-friendly Interface: The layout is clean, modern, and easy to navigate.
 
 ## Technologies Used
 
@@ -19,9 +19,9 @@ This is a collaborative portfolio website showcasing the work and skills of thre
 - **GitHub Pages**: Used for hosting the website.
 - **Git**: For version control and collaboration between team members.
 
-## Team Members
+## Team Members Roles For This Project
 
-1. **Malcolm Iheremelam** - Backend Developer and Team Leader  
+1. **Malcolm Iheremelam** - Frontend Developer  
    - Role: Managed the project and handled GitHub Pages deployment.
    - Skills: Python, JavaScript, Git, HTML/CSS.
    
@@ -29,7 +29,7 @@ This is a collaborative portfolio website showcasing the work and skills of thre
    - Role: Customized the template and handled design adjustments.
    - Skills: HTML/CSS, JavaScript, Responsive Design.
 
-3. **[Member 3 Name]** - Content Writer  
+3. **Yusuf O.** - Content Writer  
    - Role: Wrote content for the landing page and individual sections.
    - Skills: Copywriting, SEO, Content Creation.
 
@@ -39,6 +39,5 @@ This is a collaborative portfolio website showcasing the work and skills of thre
 ├── assets/         # Folder containing CSS, JavaScript, and other assets.
 ├── images/         # Folder containing images used on the website.
 ├── index.html      # Main landing page.
-├── generic.html    # Additional pages (optional).
 ├── LICENSE         # License information for the template.
 └── README.md       # This readme file.
